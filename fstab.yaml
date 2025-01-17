@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "http://localhost:1502/bin/franklin.delivery/rajatsharmasuresh/aem-eds/main"
+    url: "http://localhost:1502"
     type: "markup"
     suffix: ".html"
