@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "http://localhost:1502"
+    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/rajatsharmasuresh/aem-eds/main"
     type: "markup"
     suffix: ".html"
